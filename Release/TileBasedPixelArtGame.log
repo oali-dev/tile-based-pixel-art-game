@@ -1,0 +1,54 @@
+﻿  Animation.cpp
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Animation.cpp(36,16): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Camera.cpp
+  Game.cpp
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Game.cpp(21,72): warning C4244: '引数': 'T' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Game.cpp(21,51): warning C4244: '引数': 'T' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameObject.cpp
+  main.cpp
+  Player.cpp
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(124,65): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(124,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(126,32): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(139,65): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(139,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(141,32): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(154,58): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(154,53): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(156,32): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(169,58): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(169,53): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(171,32): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(211,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(222,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(233,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Player.cpp(244,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  TileMap.cpp
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\TileMap.cpp(194,67): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\TileMap.cpp(194,46): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  コード生成しています。
+  586 of 598 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  TileBasedPixelArtGame.vcxproj -> C:\Users\omar_\Desktop\Tile_Based_Pixel_Art_Game\Release\TileBasedPixelArtGame.exe
